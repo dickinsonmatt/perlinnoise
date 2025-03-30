@@ -3,5 +3,5 @@
 The procedural terrain generation technique used in so many games.
 
 Here is the example from Wikipedia.
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/c6004c26-6f80-4cb3-8a86-eedc8c2398d9)" width="480">
+![image](https://github.com/user-attachments/assets/21081822-bdfa-475a-a0be-5460adea8cb3)
 -- Wikipedia
