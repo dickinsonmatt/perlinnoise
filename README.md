@@ -1,6 +1,6 @@
 # Perlin noise
 
-The procedural terrain generation technique used in so many games.
+The procedural terrain generation technique used in games.
 
 Here is the example from Wikipedia.
 
